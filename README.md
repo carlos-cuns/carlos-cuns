@@ -1,9 +1,9 @@
-## Hey, I'm Carlos Cuns
-# About Me
+# Hey, I'm Carlos Cuns
+## About Me
 - I'm an Honors Computer Science Student at the University of Central Florida
 - I'm looking to work in Software Development in Cloud Technologies and Machine Learning
 - I have the most experience in frontend web development technologies
-# Languages
+## Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"alt="C" width="40" height="40"/>&nbsp;
@@ -17,5 +17,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-# Contact
+## Contact
 You can contact me through my LinkedIn: [carlosicuns](https://www.linkedin.com/in/carlosicuns/)
