@@ -2,7 +2,7 @@
 ## About Me
 - I'm an Honors Computer Science Student at the University of Central Florida
 - I'm looking to work in Software Development in Cloud Technologies and Machine Learning
-- I have the most experience in frontend web development technologies
+- I have experience in FullStack Development and Machine Learning
 
 ## Languages
 <div>
