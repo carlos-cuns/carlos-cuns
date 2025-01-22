@@ -25,4 +25,4 @@
 </div>
 
 ## Contact
-You can contact me through my LinkedIn: [carlosicuns](https://www.linkedin.com/in/carlosicuns/)
+You can contact me through my email: carloscunsb@gmail.com
